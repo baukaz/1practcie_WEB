@@ -1,0 +1,54 @@
+<<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Омирзакулы Бауыржан</title>
+      <center><h1> In academic purposes</h1></center>
+  </head>
+  <body bgcolor=#514D4C, text=#FFFBFA>
+    <img src="123.jpg" width="300" height="300" align="center">
+    <table>
+      <tr>
+        <td> Имя </td>
+        <td> Бауыржан </td>
+      </tr>
+      <tr>
+        <td> Фамилия </td>
+        <td> Омирзакулы </td>
+      </tr>
+      <tr>
+        <td> Пол </td>
+        <td> Мужской </td>
+      </tr>
+      <tr>
+        <td> Дата рождения </td>
+        <td> 30.07.2003 </td>
+      </tr>
+      <tr>
+        <td> Образование </td>
+        <td><p><a href="https://www.instagram.com/bayterek_school/?hl=ru"> Интеллектуальная Школа Байтерек </a> с 1-8 класс в г.Шымкент,
+        <br> 9 класс лицей №72 г.Астана, 10-11 класс лицей №56 им.Сатбаева,
+        <br> 1 год в младшей группе <a href="https://astana.itstep.org/"> Компьютерной Академии ШАГ </a>,
+        <br> а также 2 года в страшей группе по программированию
+        <a href="https://astana.itstep.org/"> Компьютерной Академии ШАГ </a>
+        <br> закончил десткий музыкальную школу искусств(фортепиано)</p></td>
+      </tr>
+      <tr>
+        <td> Увлечения </td>
+        <td><p><ul> Баскетбол, футбол, волейбол, тенния, шахматы, плавания, бокс,
+        <br> чтение, музыка, нетфликс</ul></td>
+      </tr>
+      <tr>
+        <td> Семья </td>
+        <td><ol> Брат Бахытжан, братишка Омиржан, сестренка Алиша, мама Жанара </ol></td>
+      </tr>
+    </table>
+    <center><h2> References </h2></center>
+    <p>
+      <a href="https://www.instagram.com/lightskin._.mamba/?hl=ru"> lightskin._.mamba </a>
+      <br><a href="https://www.instagram.com/zhanar_meirman/?hl=ru"> childrenpedia </a>
+      <br> For more information 87778887007, девушкам особенное приветствие.
+    </p>
+    <center><h3> <a href="http://somethingnothing.net/"> Thank you for attention! </a> </h3></center>
+  </body>
+</html>
